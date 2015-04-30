@@ -1,7 +1,7 @@
 # Oi, eu sou o Goku!
 Diretamente da República, IFCE, Aracati
 
-## P
+## :P
 Exemplo de um `README.md`
 [@ivomarsan](http://ivomarsantos.com).
 
